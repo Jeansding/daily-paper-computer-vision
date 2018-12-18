@@ -1,6 +1,8 @@
 # daily-paper-computer-vision
 **记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文**
 
+https://github.com/amusi/daily-paper-computer-vision
+
 ## 日记
 
 [2018-12-10](2018/12/10.md): 12篇论文速递，涉及图像分类、目标检测、图像分割、GAN和三维重建等方向。
